@@ -8,3 +8,6 @@ A tool for automatically generating presigned download URLs for AWS S3 using bot
 
 ## Usage
 + Run `presign --help` for a breakdown of command line arguments
+
+## Wheel hosting
++ [This project's sdist and bdist can be found hosted on PyPi](https://pypi.org/project/presign/)
